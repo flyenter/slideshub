@@ -49,3 +49,4 @@ Issues and pull requests are welcome, especially around real presentation workfl
 - WeChat Mini Program: search for `SlidesHub`
 - Enterprise WeChat support: `Profile` → `Support` inside the Mini Program
 - Business inquiries: leave a message through the Mini Program support channel
+- Support Site: https://slideshub.flyenter.com
